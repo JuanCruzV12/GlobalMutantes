@@ -48,4 +48,6 @@ def isMutant(dna):
 dna = []
 for i in range(0,6):
     dna.append(input("Ingrese la secuencia del ADN (6 letras utilizando solo A,T,C,G): "))
+for cadena in dna:
+    print(f"|"+cadena+ "|")
 isMutant(dna)

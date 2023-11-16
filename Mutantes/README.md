@@ -8,7 +8,8 @@ Este es el examen/proyecto global de Programación 1. Se trata de un codigo que 
 
 ## Realización/Funcionamiento
 * Primero: Se cargan las secuencias de letras. 
-* Segundo: Pasan a la función donde se evaluan si hay secuencias de 4 letras iguales. Cada tipo de secuencia (horizontal, vertical, diagonal), se evalua en bucles distintos.
+* Segundo: Se muestran las secuencias cargadas.
+* Tercero: Pasan a la función donde se evaluan si hay secuencias de 4 letras iguales. Cada tipo de secuencia (horizontal, vertical, diagonal), se evalua en bucles distintos.
 * Por último muestra si es *mutante* o no.
 
 ## Observaciones
